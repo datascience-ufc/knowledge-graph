@@ -1,0 +1,27 @@
+BASE
+
+SBL0086 - Programação Computacional
+ECO0025 - Matemática Discreta
+SBL0057 - Cálculo I
+
+ECO0015 - Técnicas de Programação
+SBL0056 - Álgebra Linear
+SBL0084 - Probabilidade e Estatística
+SBL0058 - Cálculo II
+
+ECO0016 - Estrutura de Dados
+SBL0081 - Métodos Numéricos
+SBL0059 - Cálculo Vetorial
+
+SBL0091 - Sistemas Lineares
+SBL0080 - Inteligência Computacional
+ECO0031 - Banco de Dados
+
+CORRELACIONADAS
+
+SBL0071 - Engenharia Economica
+SBL0076	- Fundamentos de Economia
+SBL0077 - Fundamentos de Administração
+SBL0095 - Variáveis Complexas
+ECO0076 - Processos Estocásticos
+SBL0085 - Processamento Digital de Sinais
