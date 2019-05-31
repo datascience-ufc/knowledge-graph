@@ -1,0 +1,9 @@
+digraph {
+	c1 -> c2;
+	c2 -> cv;
+	cv -> pe;
+	pe -> ds;
+	al -> pe;
+	pc -> ed;
+	ed -> ds;
+} 
