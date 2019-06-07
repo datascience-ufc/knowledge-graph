@@ -1,0 +1,11 @@
+digraph {
+	pc -> tp;
+	tp -> ed;
+	md -> ic;
+	ed -> ic;
+	al -> mn;
+	c1 -> c2;
+	c2 -> c3;
+	c3 -> pe;
+	c3 -> sl;
+}	
